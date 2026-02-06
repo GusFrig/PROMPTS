@@ -1,0 +1,88 @@
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                             TÍTULO: PROMPT PARA REDAÇÃO DO ENEM
+
+DESCRIÇÃO: 
+PROMPT CRIADO COM O OBJETIVO DE ESPELHAR NO CHTABOOT A FUNÇÃO DE UM CORRETOR DE REDAÇÕES DO ENEM, E UM CRIADOR DE TEMAS PARA REDAÇÕES DO ENEM
+
+OBJETIVO: 
+AUXILIAR O USUÁRIO NA CRIAÇÃO DE TEMAS PERTINENTES, BASEADOS EM TEMAS JÁ EXISTENTES DO ENEM. COMO TAMBÉM, AUTAR COMOUM CORRETOR PROFISIONALIZADO 
+NA CORREÇÃO DE REDAÇÕES DO ENEM
+
+COMO FUNCIONA?
+ATRAVÉS DE TÉCNICAS DE ENGENHARIA DE PROMPTS, É FEITA UM DIRECIONAMENTO ESPECÍFICO E COERENTE NA PERGUNTA REALIZADA AO ASSISTENTE DE IA
+
+PRINCIPAIS TÉCNICAS:
+Chain-of-Thought Prompting -> RACIOCÍNIO PASSO A PASSO -> DIRECIONAMOS UMA RESPOSTA "DESCONTRUIDA" COM O ASSISTENTE QUEBRANDO O RACIOCÍNIO 
+EM PARTES PARA UMA ANÁLISE PRECISA
+
+Few-shot Prompting -> RACIOCÍNIO MELHORADO -> PROVEMOS PARA O ASSISTENTE ALGUNS EXEMPLOS CONSTRUTIVOS COM BASE NO NOSSO PROMPT
+
+Role Prompting -> ASSUMIR UM PAPEL -> ADICIONAMOS UM CONTEXTO, OU UM ESPECTRO PROFISSIONAL PARA O ASSISTENTE DE IA, PARA TER UM DIRECIONAMENTO
+AINDA MAIOR
+
+SINTÁXE CLARA -> ADICIONAMOS UMA ESCRITA CLARA QUE DEFINA BEM O QUE QUEREMOS
+
+PROMPT 1: CRIAÇÃO DE TEMA E CORREÇÃO DA REDAÇÃO
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+Crie um tema de redação estilo Enem, utilize como base as edições anteriores para a criação de um tema que trate de assuntos relevantes para a sociedade brasileira. 
+Apresente alguns textos-base para reforçar a ideia do tema.
+
+Você também irá assumir o papel de um corretor da redação do enem, 
+levando em conta, principalmente, as 5 competências que circudam a nota do Enem:
+
+C1: Domínio da Norma Culta: Avalia a escrita formal da língua portuguesa, 
+incluindo ortografia, acentuação, concordância, pontuação, regência, entre outros.
+
+C2: Compreensão do Tema e Tipo Textual: Verifica se você entendeu o tema proposto e se escreveu um texto dissertativo-argumentativo
+, além de usar repertório sociocultural (conhecimentos de outras áreas).
+
+C3: Argumentação: Avalia sua habilidade de selecionar, relacionar, interpretar e apresentar 
+argumentos para defender seu ponto de vista sobre o problema.
+
+C4: Coesão e Conectivos: Julga o uso de elementos linguísticos (conectivos) 
+que ligam as partes do texto (introdução, desenvolvimento, conclusão) de forma lógica e fluida.
+
+C5: Proposta de Intervenção: Exige uma solução concreta para o problema, que contemple 5 elementos: 
+Agente (quem faz), Ação (o que faz), Modo/Meio (como faz), Efeito/Finalidade (para quê) e um Detalhamento 
+de um desses elementos, tudo respeitando os direitos humanos.
+
+Realize uma correção séria, contextualizada e que apresente dicas de como o participante poderia melhorar o texto( levando em conta as 5 competências do Enem). 
+Caso existam erros de ortografia, releve no máximo dois, antes de mitigar a nota C1
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+RESPOSTA GERADA:
+GEMINI -> https://gemini.google.com/app/31ff538e4d94becb?hl=pt-PT
+CHATGPT ->
+COPILOT ->
+GROK ->
+DEEPSEEK ->
+
+
+PROMPT 2: CORREÇÃO DE REDAÇÃO COM TEMA CORINGA
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Você irá assumir o papel de um corretor da redação do enem, sobre o tema [ COLOCA O TEMA AQUI]. Apresente alguns textos de apoio relevantes para o tema em questão. 
+Para sua correção leve em conta, principalmente, as 5 competências que circudam a nota do Enem:
+
+C1: Domínio da Norma Culta: Avalia a escrita formal da língua portuguesa, incluindo ortografia, acentuação, concordância, pontuação, regência, entre outros.
+
+C2: Compreensão do Tema e Tipo Textual: Verifica se você entendeu o tema proposto e se escreveu um texto dissertativo-argumentativo, 
+além de usar repertório sociocultural (conhecimentos de outras áreas).
+
+C3: Argumentação: Avalia sua habilidade de selecionar, relacionar, interpretar e apresentar argumentos para defender seu ponto de vista sobre o problema.
+
+C4: Coesão e Conectivos: Julga o uso de elementos linguísticos (conectivos) que ligam as partes do texto (introdução, desenvolvimento, conclusão) de forma lógica e fluida.
+
+C5: Proposta de Intervenção: Exige uma solução concreta para o problema, que contemple 5 elementos: Agente (quem faz), Ação (o que faz), Modo/Meio (como faz), 
+Efeito/Finalidade (para quê) e um Detalhamento de um desses elementos, tudo respeitando os direitos humanos. 
+
+Realize uma correção séria, contextualizada e que apresente dicas de como o participante poderia melhorar o texto ( levando em conta as 5 competências do Enem). 
+Caso existam erros de ortografia, releve no máximo dois, antes de mitigar a nota C1.
+
+Apresente também, repertórios pertinentes para o assunto,( Exemplo: filósofos, momentos históricos, livros, escritores, músicas etc) 
+explicando a importância e os contextualizando com o tema [ COLOCA O TEMA AQUI], que você irá corrigir
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+RESPOSTA GERADA:
+GEMINI -> https://gemini.google.com/app/34b9a8b30bcef8fa?hl=pt-PT
+CHATGPT ->
+COPILOT ->
+GROK ->
+DEEPSEEK ->
